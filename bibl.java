@@ -3,6 +3,7 @@ public bibl(){
 theory
 if(true)
   System.out.println("Hello");
+while(true);
 }
 
 
